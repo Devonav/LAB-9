@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//By Devon Villalona
+//Lab 9
+//COP3502C-24Spring 0025
 #define HASH_SIZE 10
 
 // RecordType
